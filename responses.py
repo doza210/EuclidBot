@@ -1,6 +1,7 @@
 def respond(message) -> str:
     msg = message.lower()
-
+    
+    // bot responses, i plan to use csv file or whatever for this later on
     if msg == 'alpha':
         return 'Αα'
     elif msg == 'beta':
