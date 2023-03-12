@@ -51,6 +51,6 @@ def respond(message) -> str:
     elif msg == 'omega':
         return 'Ωω'
     elif msg == '!help':
-        return 'Input a greek letter and I will provide the symbol'
+        return 'Input a greek letter and I will provide the symbol. \n Example: \n input: psi \n output: Ψψ'
 
     #return 'Sorry, I do not seem to know that'
