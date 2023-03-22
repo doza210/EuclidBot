@@ -1,3 +1,5 @@
+import pandas as pd
+
 def respond(message) -> str:
     msg = message.lower()
     
